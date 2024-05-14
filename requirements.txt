@@ -1,0 +1,12 @@
+Jinja2
+jsonpickle
+requests
+typing_extensions
+uritemplate
+urllib3
+wcwidth
+black
+uvicorn
+fastapi
+starlette
+PyJSONCanvas
