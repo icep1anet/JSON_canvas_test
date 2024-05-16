@@ -454,5 +454,5 @@ document.addEventListener('gesturechange', function(e) {
   e.preventDefault();
 });
 
-drawEdges();
+// drawEdges();
 updateCanvasData();
